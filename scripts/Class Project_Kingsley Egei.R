@@ -1,4 +1,4 @@
-#Kingsley Egei Final Proj
+#Kingsley Egei Housing Model Project
 
 #1. Access the Data Set 
 housing <- read.csv("/Users/kings/Downloads/housing.csv")
