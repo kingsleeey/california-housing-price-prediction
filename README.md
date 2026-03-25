@@ -4,7 +4,7 @@ A machine learning project that predicts California housing prices using a Rando
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project uses the California Housing dataset to build a predictive model for estimating median house values across census block groups.
 
@@ -12,7 +12,7 @@ The model achieves a stable prediction error of approximately **$48,310 RMSE**, 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Predict median house values using demographic, geographic, and housing features
 - Apply data science techniques learned in coursework to a real-world dataset
@@ -20,7 +20,7 @@ The model achieves a stable prediction error of approximately **$48,310 RMSE**, 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: California Housing Dataset (1990 Census)
 - Observations: 20,640 census block groups
@@ -36,7 +36,7 @@ Key variables include:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 Key insights from EDA:
 
@@ -52,7 +52,7 @@ Visualizations include:
 
 ---
 
-## ⚙️ Data Processing
+##  Data Processing
 
 ### Data Cleaning
 - Imputed 207 missing values in `total_bedrooms` using median
@@ -73,7 +73,7 @@ Visualizations include:
 
 ---
 
-## 🤖 Model
+##  Model
 
 ### Algorithm
 - Random Forest (R `randomForest` package)
@@ -86,7 +86,7 @@ Visualizations include:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric            | Value        |
 |------------------|-------------|
@@ -101,7 +101,7 @@ Visualizations include:
 
 ---
 
-## 🔑 Key Insights
+##  Key Insights
 
 - **Median Income** is the strongest predictor
 - **Geographic location (lat/long)** plays a major role
@@ -110,7 +110,7 @@ Visualizations include:
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to build a full machine learning pipeline in R
 - Importance of feature engineering over raw data
@@ -120,7 +120,7 @@ Visualizations include:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
 ```bash
