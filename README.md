@@ -121,7 +121,19 @@ Visualizations include:
 ---
 
 ##  How to Run
-
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/california-housing-price-prediction.git
+```
+
+2. Open R or RStudio
+
+3. Install required package:
+```bash
+install.packages("randomForest")
+```
+4. Run The script
+```bash
+source("scripts/housing_model.R")
+```
+
